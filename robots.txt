@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://plinfrea.github.io/sitemap
+Sitemap: https://plinfrea.github.io/app/sitemap
+Sitemap: https://plinfrea.github.io/assets/sitemap
+Sitemap: https://plinfrea.github.io/css/sitemap
+Sitemap: https://plinfrea.github.io/includes/sitemap
+Sitemap: https://plinfrea.github.io/item/sitemap
+Sitemap: https://plinfrea.github.io/src/sitemap
